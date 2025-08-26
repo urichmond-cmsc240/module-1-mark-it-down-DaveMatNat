@@ -9,5 +9,5 @@ NetID: **53723485** | GitHub Username: **DaveMatNat**
 - Volleyball with friends
 - Watching Movies
 ---
-### Favorite game: <a href="http://www.minecraft.net" target="_blank"> Minecraft <a/>
-![Nostalgic Minecraft Wallpaper](https://i.redd.it/5uuduk40yno71.jpg)
+### Favorite game: <a href="http://www.minecraft.net/"> Minecraft </a>
+<a href="http://www.minecraft.net/"><img src="https://i.redd.it/5uuduk40yno71.jpg" alt="Nostalgic Minecraft Wallpaper"/><a/>
