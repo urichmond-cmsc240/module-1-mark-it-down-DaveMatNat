@@ -1,4 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-[REPLACE ME!] 
+# David Nathanson
+![]()
+### NetID: **53723485**
+### GitHub Username: **DaveMatNat**
+### Pronouns: *he/him*
+### Expected *Spring 2028*
+### Major: *Computer Science & Mathematics*
+### Hobbies
+- Playing Musical Instruments
+- Volleyball with friends
+- Watching Movies
 
-Add your profile details here
+### Favorite game: Minecraft
+![Nostalgic Minecraft Wallpaper](https://i.redd.it/5uuduk40yno71.jpg)
+
